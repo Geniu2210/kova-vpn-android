@@ -1,0 +1,11 @@
+KOVA VPN — fast, private, and reliable VPN for bypassing restrictions.
+
+Features:
+• VLESS + Reality protocol — invisible to DPI inspection
+• Servers in Germany, Netherlands, Finland and more
+• Subscription-based access with auto-update
+• No logs, no tracking
+• Minimal battery usage
+• Easy one-tap connect
+
+Powered by Xray core.
